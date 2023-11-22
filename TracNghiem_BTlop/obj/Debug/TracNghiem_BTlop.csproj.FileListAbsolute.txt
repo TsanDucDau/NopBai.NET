@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\Dau\TracNghiem_BTtrenLop\TracNghiem_BTlop\bin\Debug\TracNghiem_BTlop.exe.config
+E:\LuuDuLieuSinhVien\Dau\TracNghiem_BTtrenLop\TracNghiem_BTlop\bin\Debug\TracNghiem_BTlop.exe
+E:\LuuDuLieuSinhVien\Dau\TracNghiem_BTtrenLop\TracNghiem_BTlop\bin\Debug\TracNghiem_BTlop.pdb
+E:\LuuDuLieuSinhVien\Dau\TracNghiem_BTtrenLop\TracNghiem_BTlop\obj\Debug\TracNghiem_BTlop.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\Dau\TracNghiem_BTtrenLop\TracNghiem_BTlop\obj\Debug\TracNghiem_BTlop.Form1.resources
+E:\LuuDuLieuSinhVien\Dau\TracNghiem_BTtrenLop\TracNghiem_BTlop\obj\Debug\TracNghiem_BTlop.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\Dau\TracNghiem_BTtrenLop\TracNghiem_BTlop\obj\Debug\TracNghiem_BTlop.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\Dau\TracNghiem_BTtrenLop\TracNghiem_BTlop\obj\Debug\TracNghiem_BTlop.exe
+E:\LuuDuLieuSinhVien\Dau\TracNghiem_BTtrenLop\TracNghiem_BTlop\obj\Debug\TracNghiem_BTlop.pdb
